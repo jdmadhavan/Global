@@ -13,4 +13,10 @@ public class App
          System.out.println( "Created code updated " );
          System.out.println( "Created new updated " );
     }
+    
+    void method
+  ()
+  {
+    	
+  }
 }
