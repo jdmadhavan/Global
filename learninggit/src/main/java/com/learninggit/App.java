@@ -17,6 +17,6 @@ public class App
     void method
   ()
   {
-    	
+    System.out.println();
   }
 }
